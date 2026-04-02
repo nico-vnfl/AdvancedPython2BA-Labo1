@@ -12,4 +12,3 @@ def test_roots():
 def test_integrate():
     # À compléter...
     pass
-pytest

@@ -1,5 +1,4 @@
 import math
-import scipy
 from scipy.integrate import quad
 
 def fact(n):
