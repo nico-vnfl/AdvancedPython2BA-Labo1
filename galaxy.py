@@ -22,7 +22,7 @@ class Galaxy:
         if self.MegaLightYears > other.MegaLightYears:
             return 1
         elif self.MegaLightYears < other.MegaLightYears:
-            return 1
+            return -1
         else:
             return 0
 
